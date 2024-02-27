@@ -1,0 +1,12 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÊÙİúÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÊÙİúÿÿÿÿ
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(×ü™œ8ÆÕÎ¿Ş1
+m
+java:S1104"RMake isRome a static final constant or non-public and provide accessors if needed.(Ù³Û­ùÿÿÿÿ
+G
+java:S1444",Make this "public static isRome" field final(Ù³Û­ùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ë±ø«ÿÿÿÿÿ

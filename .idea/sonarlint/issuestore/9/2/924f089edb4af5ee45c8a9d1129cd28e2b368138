@@ -1,0 +1,14 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‘ìËİûÿÿÿÿ8¹ÙìÆİ1
+0
+java:S1220""Move this file to a named package.
+q
+java:S3008"ORename this field "Calc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÄ¶‰ÿÿÿÿÿ8¿ÙìÆİ1
+W
+java:S2209"5Change this instance-reference to a static reference.(¾Šøøÿÿÿÿ8ÇÙìÆİ1
+L	java:S106"+Replace this use of System.out by a logger.(†ÚœÜÿÿÿÿÿ8ÇÙìÆİ1
+;
+java:S2178
+"Correct this "&" to "&&".(²Ôùÿÿÿÿÿ8ÿÓÎ¿Ş1
+L	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ÉÙìÆİ1
+L	java:S106!"+Replace this use of System.out by a logger.(½ªÓùÿÿÿÿ8ËÙìÆİ1
